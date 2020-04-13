@@ -371,7 +371,7 @@ kerumunan.</p>
 						</div>
 						<div class="col-sm-7" data-aos="fade-up" data-aos-offset="-500">
 							<h3 class="font-weight-medium text-dark mt-5 mt-lg-0">Jumlah Donasi</h3>
-							<h5 class="text-dark mb-5">Jumlah donasi OVO, GO-Pay, Dana, Jenius BTPN yang terkumpul</h5>
+							<h5 class="text-dark mb-5">Jumlah donasi OVO, GO-Pay, Dana, Bank BCA yang terkumpul</h5>
 							<h1>Rp.<span class="jumdos">0</span>,-</h1>
 							<font size="3">(<?=ucfirst(terbilang($jumlahDonasi))." Rupiah";?>)</font><br><br>
 							<?php if($statusDonasi == "aktif"){ ?>
